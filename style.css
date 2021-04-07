@@ -1,0 +1,36 @@
+body{
+    background-color: #f3f1ff;
+}
+main{
+    max-width: 870px;
+}
+.top-player{
+    background-color: #ffffff;
+    margin: 30px;
+    border-radius: 10px;
+}
+.navbar img{
+    width: 40px;
+  
+}
+.player img{
+    width: 56px;
+}
+.player-name{
+    padding: 10px;
+}
+.blog img{
+    width: 200px;
+}
+.top-player .card{
+    border: none;
+    border-radius: 10px;
+    margin-bottom: 20px;
+    box-shadow: 2px 2px 30px gainsboro;
+    padding:10px
+    
+}
+.footer img{
+    width: 15px;
+    height: 15px;
+}
